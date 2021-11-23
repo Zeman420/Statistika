@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Statistika", "Statistika\Statistika.csproj", "{913B6E9E-FF3F-4A5A-834E-5535FD5A1A12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{913B6E9E-FF3F-4A5A-834E-5535FD5A1A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{913B6E9E-FF3F-4A5A-834E-5535FD5A1A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{913B6E9E-FF3F-4A5A-834E-5535FD5A1A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{913B6E9E-FF3F-4A5A-834E-5535FD5A1A12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {196CA6CE-0768-4D68-834A-88FD189E7A3B}
+	EndGlobalSection
+EndGlobal
